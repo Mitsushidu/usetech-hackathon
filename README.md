@@ -79,6 +79,7 @@
 * PyJWT = 2.8.0
 * Postgres
 * Docker
+* Keycloak
 
 
 ## Автор: mitsushidu
